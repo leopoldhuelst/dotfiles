@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leopold.huelst@gmail.com
+	name = Leopold Huelst
